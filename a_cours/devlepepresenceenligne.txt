@@ -1,0 +1,79 @@
+Bonjour ! Bienvenue dans notre leçon sur la "facilité d'utilisation" des sites Web, ou encore "ergonomie". Dans le domaine numérique, ce terme désigne le fait de permettre à vos visiteurs de trouver facilement ce qu'ils cherchent et de faire ce qu'ils souhaitent sur votre site. Nous allons passer en revue les meilleures méthodes pour améliorer la facilité d'utilisation d'un site, en se penchant sur les solutions disponibles pour proposer une navigation claire et simple, ou encore sur l'importance d'une mise en page homogène. Nous expliquerons également comment votre style de rédaction peut rendre votre site plus efficace.
+
+Le programme vous convient ?
+
+Tout d'abord, intéressons-nous à la navigation : ce qui guide les internautes lors de leur visite sur votre site.
+
+Pour offrir une bonne navigation, l'organisation de votre site doit être cohérente et logique pour vos visiteurs.
+
+Si vous avez un magasin physique, une boulangerie par exemple, réfléchissez à la manière dont vos produits sont regroupés. Les plus gros d'entre eux, comme les gâteaux ou les tartes, peuvent être placés à un endroit spécial, tandis que les portions individuelles, telles que les croissants ou les mignardises, se trouvent à un autre endroit.
+
+Sur votre site, vous pouvez organiser votre contenu de la même manière. Vous pouvez ainsi utiliser les éléments de navigation du menu principal pour indiquer aux visiteurs ce qu'ils pourront trouver dans chaque section, comme des panneaux dans un magasin.
+
+Malgré tout cela, votre site ne sera peut-être pas parfaitement adapté à tout le monde. Il peut donc être intéressant d'intégrer un champ de recherche, surtout si votre site contient beaucoup de pages ou de produits. Placez le champ de recherche au même endroit sur chaque page pour qu'il soit facile à trouver. Ainsi, les visiteurs pressés n'auront jamais de mal à le repérer et à trouver ce qu'ils recherchent.
+
+Dernière chose à ne pas oublier sur la navigation : quel que soit le site qu'ils consultent, les internautes s'attendent à ce que les choses fonctionnent d'une certaine manière.
+
+Imaginez que vous visitez un site et que vous voulez revenir à la page d'accueil. Qu'est-ce que vous faites ? Vous cliquez sur le logo.
+
+C'est une chose à laquelle les visiteurs s'attendent et c'est une fonctionnalité présente sur quasiment tous les sites Web existants, alors veillez à ce que votre logo soit bien visible sur chaque page, et à ce qu'il permette de revenir sur la page d'accueil en cliquant dessus.
+
+Voilà les bases de la navigation. Maintenant, parlons un peu du style et de l'apparence de votre site. Tous les goûts sont dans la nature, mais il existe quand même des grands principes à respecter.
+
+Tout d'abord, pensez à la mise en page. Elle doit être homogène sur tout le site, avec des polices, des images ou des éléments de design similaires d'une page à l'autre.
+
+En ce qui concerne les couleurs, vous serez peut-être tenté de choisir quelque chose de vif pour attirer l'attention. Mais les internautes sont en général habitués à lire des textes foncés sur un fond clair. Vous avez travaillé dur pour créer votre contenu, assurez-vous que les visiteurs ne se fatiguent pas les yeux quand ils essaient de le lire.
+
+Vous devez aussi faire attention à l'endroit où est placé votre contenu sur la page. N'obligez pas les visiteurs à faire défiler la page trop longtemps pour voir les éléments importants. Utilisez des titres ou des listes à puces pour les aider à survoler rapidement vos pages et décider si votre site vaut la peine de s'y attarder.
+
+Écrivez pour votre public. Est-ce que ce sont des experts spécialisés dans un domaine technique ? Dans ce cas, pas de souci pour utiliser du jargon. Sinon, écrivez pour le commun des mortels.
+
+Un autre conseil ? Encouragez les visiteurs à être actifs quand ils sont sur votre site. On appelle cela une "incitation à l'action", et c'est très utile pour les aider à comprendre ce qu'ils doivent faire ensuite.
+
+Vous voulez qu'ils décrochent leur téléphone ? Dites-leur de vous "Appeler dès maintenant". Vous avez envie qu'ils vous rendent visite ? Indiquez-leur la section "Comment trouver notre magasin". Ou incitez-les à faire un achat avec un "Acheter dès maintenant !".
+
+Récapitulons : quand vous créez un site Web, essayez de le rendre aussi facile à utiliser que possible. Donnez à vos visiteurs un aperçu clair de toutes les pages de votre site, adoptez une présentation homogène, rédigez du contenu qui leur parle et offrez-leur l'expérience qu'ils recherchent.
+
+Points clés
+Les visiteurs qui se rendent sur votre site doivent pouvoir aisément y naviguer et interagir avec les différents éléments ; on appelle ça la facilité d'utilisation. Faites en sorte qu'ils reviennent fréquemment en :
+
+proposant une navigation simple et claire ;
+adoptant une mise en page homogène ;
+créant du contenu pertinent et efficace.
+
+
+
+
+
+
+
+Google Ateliers Numériques
+Google Ateliers Numériques
+Mon plan de formation
+Cours en ligne
+Formations
+Travailler à distance
+Certification
+FAQ
+Des questions ?
+Mon Profil
+Déconnexion
+LES PRINCIPES FONDAMENTAUX DU MARKETING NUMÉRIQUE : MODULE 3/26
+Développez votre présence en ligne
+Dans ce module...
+LEÇON TERMINÉE
+Votre réponse est correcte, félicitations !
+Pour que les visiteurs de son site Web puissent trouver rapidement ce qu'ils cherchent, Céline peut utiliser un menu latéral et une barre de recherche. La bonne pratique, c'est de toujours les positionner au même endroit, sur chaque page du site Web.
+
+De plus, les visiteurs doivent pouvoir revenir rapidement à la page d'accueil. Sur la plupart des sites Web, il leur suffit de cliquer sur le logo.
+
+La présentation de l'entreprise est utile pour attirer les utilisateurs, mais il n'est pas nécessaire de l'inclure sur chaque page.
+
+
+
+
+faites la liste de ce que vous voulez que les gens puissent faire sur votre site, comme trouver votre numéro de téléphone, remplir un formulaire de contact, ou regarder une vidéo. Ensuite, demandez à un ami ou à un membre de votre famille (qui n'a jamais vu votre site) d'essayer d'accomplir ces tâches. Si possible, observez-le pendant qu'il navigue sur votre site. Est-ce qu'il y arrive ? Est-ce que certaines zones de votre site sont difficiles à utiliser ? Est-ce que certains points pourraient être améliorés ?
+
+
+
+
