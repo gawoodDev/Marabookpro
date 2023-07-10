@@ -123,11 +123,36 @@ header{
 
 
 
+
+
+
+
+
+
+
+.sendDetails{
+  padding: 80px 150px;
+  background: red;
+}
+
+.form_box{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+
 .dropzone{
+  width: 50%;
   background: fuchsia;
   padding: 20px;
-  margin: 20px 0;
+  margin: 10px 0;
   position: relative;
+}
+
+.dropzone input{
+  width: 100%;
+  min-height: 0;
 }
 
 .drop_down_email{
@@ -212,6 +237,29 @@ textarea{
   .box_menu_head {
     display: block;
   }
+  
+  
+  
+#contact_form,
+section{
+  padding: 80px 20px;
+}
+
+.form_box{
+  flex-direction: column;
+  
+}
+  
+.dropzone {
+  width: 100%;
+}
+  
+.sendDetails{
+  padding: 80px 0;
+}
+  
+  
+  
   
   
 }
