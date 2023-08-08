@@ -119,10 +119,15 @@ header{
   padding: 80px 8%;
 }
 
+.form_box_checbox > div,
+#contact_form > div{
+  width: 100%;  height: auto;  display: flex;  justify-content: center;  align-items: center;
+}
 
 
-
-
+#contact_form > div{
+  flex-direction: column;
+}
 
 
 
@@ -132,7 +137,6 @@ header{
 
 .sendDetails{
   padding: 80px 150px;
-  background: red;
 }
 
 .form_box{
@@ -144,7 +148,7 @@ header{
 
 .dropzone{
   width: 50%;
-  background: fuchsia;
+  background: rgba(197, 197, 197, .5);
   padding: 20px;
   margin: 10px 0;
   position: relative;
@@ -152,7 +156,10 @@ header{
 
 .dropzone input{
   width: 100%;
+  border-radius: 0px;
+  border-color: rgba(0, 0, 0, 0.06);
   min-height: 0;
+  border-color: none;
 }
 
 .drop_down_email{
@@ -177,14 +184,43 @@ header{
 
 textarea{
   width: 100%;
-  height: 200px
+  height: 200px;
+  margin-top: 40px;
+  border-radius: 0px;
+  border-color: rgba(0, 0, 0, 0.296);
+  
+}
+
+.form_box_checbox{
+  padding: 20px 0px;
+  display: flex;  justify-content: center;  align-items: center;
+  flex-direction: column;
+  
+}
+
+.form_box_checbox{
+  
 }
 
 
+.form_box_checbox > div{
+  width: 100%;  height: auto;  display: flex;  justify-content: center;  align-items: center;
+  margin-bottom: 10px;
+}
 
+.form_box_checbox > div{
+  justify-content: space-between;
+}
 
+.form_box_checbox > div > input{
+  padding: 0;
+  margin: 0;
+  width: 30px;
+}
 
-
+.form_box_checbox button{
+  width: 120px;
+}
 
 
 
