@@ -16,7 +16,7 @@
 
 
 .home_left h1{
-  font-size: 3em; padding: 0 0px 20px 0;
+  font-size: 3em; padding: 0 0px 20px 0; color: white;
 }
 
 .home_left p{
@@ -615,6 +615,17 @@ footer > div{
   padding: 0 80px;
 }
 
+.detail_left {
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.detail_left img{
+  width: 200px;
+}
 
 
 
