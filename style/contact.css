@@ -103,19 +103,24 @@ textarea{
 .form_box_checbox > div{
   justify-content: space-between;
   align-items: flex-start;
-  height: auto;
-  background: red;
+  height: auto;   
 }
 
 .form_box_checbox > div > input{
-  padding: 0;
-  margin: 0 20px 0 0;
+  
   width: 50px;
+}
+
+.form_box_checbox > div > p {
+  padding: 0 0 0 20px ;
 }
 
 .form_box_checbox button{
   min-width: 120px;
   margin-top: 30px;
+  font-size: 2em;
+  font-weight: 500;
+  color: black;
 }
 
 
