@@ -1,8 +1,17 @@
 
+:root{
+  --first :  #2DA98F; /* #E5e5e5 ;*/
+  --second: #152932; /* #CFCFCF;/* #109C7B;*/
+}
+
+
+
 /* :::::::::::::::: */
 
 #home{
-  width: 100vw;  height: 450px; background: black;  background: url("/assets/image/hbg1.jpg"); background-size:  cover ; background-repeat: no-repeat; background-clip: border-box; display: flex;  justify-content: center;  align-items: center;  padding: 0 8%;
+  width: 100vw;  height: 450px; background: black;  background: url("./assets/image/hbg1.jpg"); background-size:  cover ; background-repeat: no-repeat; background-clip: border-box; display: flex;  justify-content: center;  align-items: center;  padding: 0 8%;
+
+  background: var(--second); 
 }
 
 
@@ -112,7 +121,7 @@
 }
 
 #testimony{
-  flex-direction: column; padding: 60px 8%; 
+  flex-direction: column; padding: 60px 8%; background: var(--first);
 }
 
 #testimony h1{
@@ -121,7 +130,7 @@
 
 
 .testimony_container{
-  width: 100%;  padding: 60px 60px;  background: var(--first);  overflow-x: scroll;
+  width: 100%;  padding: 60px 60px;  overflow-x: scroll;
 }
 
 
@@ -193,7 +202,7 @@
 
 
 .about_left{
-  position: relative;  width: 50%;  height: 100%; background: #C5C5C5;
+  position: relative;  width: 50%;  height: 100%; background: #C5C5C5; background: var(--second);
 }
 
 
@@ -208,6 +217,15 @@
 /**blogs */
 /**blogs */
 /**blogs */
+
+
+
+
+
+
+
+
+
 
 
 #blogs .blogs_container{
@@ -289,6 +307,8 @@
 
 
 
+
+
 .newsletters_right form,
 .newsletters_container,
 #newsletters{
@@ -329,7 +349,6 @@
 .newsletters_right form  button{
   width: 30%;
   height: 50px;
-  background: red;
   color: #222;
   border-top-left-radius: 0;
   border-bottom-left-radius: 0;
@@ -345,6 +364,10 @@
 
 
 
+
+
+
+
 .contact_content,
 .contact_container,
 #contact{
@@ -354,12 +377,13 @@
 
 #contact{
   flex-direction: column;
-  padding: 60px 8%;
+  padding: 60px 8%; background: var(--second);
+  color: white;
 
 }
 
 #contact h1{
-  color: black;
+  color: white;
   text-transform: uppercase;
   margin: 0 0 10px 0;
 }
@@ -370,8 +394,7 @@
 }
 
 .contact_container{
-  background: #E6E7E9;
-  padding: 60px;
+  padding: 0px;
 }
 
 .contact_container form > div{
@@ -386,6 +409,7 @@
 .contact_container form  textarea{
   box-shadow: 0 1.5px 2px .2px  rgba(197, 197, 197, .5);
   border: none;
+  width: 300px
 }
 
 
@@ -393,6 +417,9 @@
 .contact_container form > div textarea{
   height: 110px;
 }
+
+
+
 
 
 
@@ -473,6 +500,7 @@ footer{
 footer {
   flex-wrap: wrap;
   padding: 0px 0px 0px;
+  background: #131616
 }
 
 footer ul{
@@ -852,13 +880,13 @@ footer > div{
   
   
   #home{
-    flex-direction: column; height: 900px;  padding: 0px 15px 0px;
+    flex-direction: column; height: 700px;  padding: 0px 15px 0px;
     background-size: auto 100% ; background-repeat: no-repeat; background-position: center;
 }
   
   
   #home .home_left{
-    padding: 250px 0 0 0;
+    padding: 180px 0 0 0;
     width: 100%;
     
   }
@@ -915,12 +943,10 @@ footer > div{
     width: 100%;
     height: 400px;
     margin: 40px 0;
-    background: red
   }
   
   #about .about_left div:last-child {
     position: absolute;
-    background: gold;
     bottom: 0;
     top: 100px
   }
@@ -1034,7 +1060,7 @@ footer > div{
   .newsletters_container .newsletters_left{
     width: 100%;
     padding: 20px 10px;
-    border-left: 1.5px solid red;
+    border-left: 1.5px solid var(--first) ;
     
   }
   
