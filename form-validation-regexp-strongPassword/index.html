@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <link rel="stylesheet" href="./style.css">
+    <title></title>
+    <meta name="theme-color" content="#4070f4">
+    <!--
+    <meta http-equiv="refresh" content="10" >
+    <base href="https://www.gaprod.com/" target="_blank">-->
+
+</head>
+
+<body>
+    
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About us</a></li>
+            </ul>
+        </nav>
+    </header>
+        
+    <div id="loader_container">
+    </div>
+    
+    
+    <main>
+        <section id="container">
+            <div>
+                <img style="width: 30px" src="/docs/assets/image/logo4.png" alt="" loading="lazy">
+                <h2 contenteditable="true">Renseigner les champs suivants : </h2>
+            </div>
+            <div>
+                <form action="" method="post">
+                    <div>
+                        <label for="username">EMAIL</label>
+                        <input type="text" name="username" id="username" value="GalaxyFree" />
+                    </div>
+                    <div>
+                        <label for="email">EMAIL</label>
+                        <input type="text" name="email" id="email" value="garywoodson1359@gmail.com" />
+                    </div>
+                    <div>
+                        <label for="password">Pass-word</label>
+                        <strong id="viewpass" >View</strong>
+                       <input type="text" name="password" id="password" value="Gt45&you4me!" />
+                    </div>
+                    <div>
+                        <button  type="submit">Send</button>
+                    </div>
+                </form>
+            </div>
+        </section>
+    </main> 
+    
+    </div>
+                    
+
+    <template id="loader_template">
+        <div class="loader_list">
+            <div style="--i:1"></div>
+            <div style="--i:3"></div>
+            <div style="--i:5"></div>
+        </div>
+    </template>
+    
+    
+    <template>
+        <div>
+        <label for="sexe">SEXE</label>
+        <input list="orientation" type="text" name="sexe" id="sexe" value="Male" />
+        <datalist id="orientation">
+            <option value="Transgenre">Transgenre</option>
+            <option value="Heterosexual">Heterosexual</option>
+            <option value="Homosexuel">Homosexuel</option>
+            <option value="Bisexual">Bisexual</option>
+        </datalist>
+        </div>
+        
+        <picture>
+            <source media="(min-width: 1080px)" srcset="/docs/assets/image/logo_monograme_LF.png">
+            <source media="(min-width: 480px)" srcset="/docs/assets/image/logo2.png">
+            <img src="/docs/assets/image/neve-patterns-19.jpg" alt="">
+            
+        </picture>
+    
+        <img src="/docs/assets/image/image2.jpg" alt="" loading="lazy">
+
+    </template>
+    
+    
+<script src="./main.js" type="module" ></script>
+
+</body>
+
+</html>
