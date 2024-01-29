@@ -1,0 +1,119 @@
+*{
+  margin: 0; padding: 0; box-sizing: border-box;
+}
+html{
+  font-size: 62.5%;
+}
+body{
+  width: 100vw; height: auto;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1.6em;
+}
+
+ul,li,ol{list-style: none;}
+
+
+
+
+/** todo.html **/
+
+form input{
+    width: 250px;
+    height: auto;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 5px;
+    background: #E5E5E5;
+    outline: none;
+}
+
+#page{
+  width: 100%;
+  padding: 20px;
+}
+
+.todo_container{
+  margin: 30px 0 0;
+  width: 100%;
+
+}
+
+.todo_item{
+  width: 100%;
+  height: auto;
+  background: #E5E5E5;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 5px 0;
+  padding: 15px 15px;
+}
+ 
+.todo_item input{
+  margin-right: 20px;
+}
+
+.todo_item label{
+    text-align: left;
+    width: 100%
+}
+
+.deleted_btn{
+  margin-left: 20px;
+  padding: 5px 8px;
+  background: #FF6666;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  
+}
+
+.filter_btn, button{
+    width: auto;
+    height: auto;
+    padding: 12px 20px;
+    color: black;
+    border: none;
+    box-shadow: 2px 2px 2px .2px rgba(0,0,0,0.2);
+    border-radius: 5px;
+    
+    
+}
+
+.filter_btn.active{
+    background: #3E4EFF;
+    color: white;
+    
+}
+
+
+.alerted {
+    width: 100%;
+    height: 50px;
+    background: #FFDCDC;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 25px 0;
+    padding: 0 15px;
+}
+
+
+.filter_container{
+    margin: 30px 0;
+}
+
+
+
+
+
+.not_finish .is_completed,
+.finish li.todo_item:not(.is_completed){
+    display: none!important;
+}
+
+.finish .is_completed{
+    display: flex;
+}
+
+
